@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\GameLogic_1-main\RpgLogicProject\bin\Debug\net7.0\RpgLogicProject.exe
+C:\Users\User\source\repos\GameLogic_1-main\RpgLogicProject\bin\Debug\net7.0\RpgLogicProject.deps.json
+C:\Users\User\source\repos\GameLogic_1-main\RpgLogicProject\bin\Debug\net7.0\RpgLogicProject.runtimeconfig.json
+C:\Users\User\source\repos\GameLogic_1-main\RpgLogicProject\bin\Debug\net7.0\RpgLogicProject.dll
+C:\Users\User\source\repos\GameLogic_1-main\RpgLogicProject\bin\Debug\net7.0\RpgLogicProject.pdb
+C:\Users\User\source\repos\GameLogic_1-main\RpgLogicProject\obj\Debug\net7.0\RpgLogicProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\GameLogic_1-main\RpgLogicProject\obj\Debug\net7.0\RpgLogicProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\GameLogic_1-main\RpgLogicProject\obj\Debug\net7.0\RpgLogicProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\GameLogic_1-main\RpgLogicProject\obj\Debug\net7.0\RpgLogicProject.AssemblyInfo.cs
+C:\Users\User\source\repos\GameLogic_1-main\RpgLogicProject\obj\Debug\net7.0\RpgLogicProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GameLogic_1-main\RpgLogicProject\obj\Debug\net7.0\RpgLogicProject.dll
+C:\Users\User\source\repos\GameLogic_1-main\RpgLogicProject\obj\Debug\net7.0\refint\RpgLogicProject.dll
+C:\Users\User\source\repos\GameLogic_1-main\RpgLogicProject\obj\Debug\net7.0\RpgLogicProject.pdb
+C:\Users\User\source\repos\GameLogic_1-main\RpgLogicProject\obj\Debug\net7.0\RpgLogicProject.genruntimeconfig.cache
+C:\Users\User\source\repos\GameLogic_1-main\RpgLogicProject\obj\Debug\net7.0\ref\RpgLogicProject.dll
